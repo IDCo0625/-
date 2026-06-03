@@ -1,0 +1,6 @@
+{
+  "name": "고교학점제 똑띠 RPG",
+  "description": "학업 설계를 도와주는 귀여운 AI 로봇 똑띠와 함께 떠나는 192학점 자율 설계 던전 RPG",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
